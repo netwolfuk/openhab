@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="lib" path="/org.openhab.io.transport.serial/lib/nrjavaserial-3.8.8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/org.openhab.action.xpl"/>
+	<classpathentry kind="src" path="/org.openhab.core.library"/>
+	<classpathentry kind="src" path="/org.openhab.core"/>
+	<classpathentry kind="src" path="/org.openhab.model.item"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
