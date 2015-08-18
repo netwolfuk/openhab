@@ -20,7 +20,7 @@ import org.slf4j.LoggerFactory;
  * the Oppo Bluray Player.
  * 
  * @author netwolfuk
- * @since 1.7.0
+ * @since 1.8.0
  */
 public class OppoBlurayPlayerCommandSender implements Runnable {
 

@@ -16,7 +16,7 @@ import org.openhab.binding.oppoblurayplayer.internal.core.OppoBlurayPlayerComman
  * Base class for Oppo Bluray Player communication.
  * 
  * @author netwolfuk
- * @since 1.7.0
+ * @since 1.8.0
  */
 public interface OppoBlurayPlayerConnector {
 

@@ -152,7 +152,7 @@ public enum OppoBlurayPlayerCommand {
 	}
 	
 	/**
-	 * Convert receiver value to OpenHAB state.
+	 * Convert player value to OpenHAB state.
 	 * 
 	 * @param itemType
 	 * @param data

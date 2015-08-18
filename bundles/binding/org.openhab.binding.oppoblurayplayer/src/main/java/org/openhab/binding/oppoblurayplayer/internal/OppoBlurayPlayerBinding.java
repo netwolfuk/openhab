@@ -35,7 +35,7 @@ import org.slf4j.LoggerFactory;
  * like querying a Website/Device.
  * 
  * @author netwolfuk
- * @since 1.7.0
+ * @since 1.8.0
  */
 public class OppoBlurayPlayerBinding extends AbstractBinding<OppoBlurayPlayerBindingProvider> implements ManagedService {
 

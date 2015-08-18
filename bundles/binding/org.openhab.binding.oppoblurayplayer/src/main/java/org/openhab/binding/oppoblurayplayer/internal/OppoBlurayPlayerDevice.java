@@ -24,7 +24,7 @@ import org.slf4j.LoggerFactory;
  * Provide high level interface to Oppo Bluray player.
  * 
  * @author netwolfuk
- * @since 1.7.0
+ * @since 1.8.0
  */
 public class OppoBlurayPlayerDevice {
 

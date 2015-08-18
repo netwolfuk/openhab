@@ -21,7 +21,7 @@ import org.openhab.core.library.items.SwitchItem;
  * binding.
  * 
  * @author netwolfuk
- * @since 1.7.0
+ * @since 1.8.0
  */
 public enum OppoBlurayPlayerCommandType {
 

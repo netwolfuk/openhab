@@ -12,7 +12,7 @@ package org.openhab.binding.oppoblurayplayer.internal;
  * Exception for Oppo Bluray player errors.
  * 
  * @author netwolfuk
- * @since 1.7.0
+ * @since 1.8.0
  */
 public class OppoBlurayPlayerException extends Exception {
 
