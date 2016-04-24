@@ -28,6 +28,6 @@ Import-Package: gnu.io,
  org.slf4j
 Export-Package: org.openhab.binding.oppoblurayplayer
 Bundle-DocURL: http://www.openhab.org
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-RequiredExecutionEnvironment: J2SE-1.6
 Service-Component: OSGI-INF/binding.xml, OSGI-INF/genericbindingprovider.xml
 Bundle-ClassPath: .

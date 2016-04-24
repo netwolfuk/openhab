@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="/org.openhab.core.library"/>
 	<classpathentry kind="src" path="/org.openhab.core"/>
 	<classpathentry kind="src" path="/org.openhab.model.item"/>
+	<classpathentry kind="src" path="/org.openhab.io.transport.serial"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
